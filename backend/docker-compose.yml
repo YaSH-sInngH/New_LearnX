@@ -1,0 +1,17 @@
+# version: '3.8'
+
+# services:
+#   postgres:
+#     image: postgres:15
+#     container_name: learnx-postgres
+#     ports:
+#       - "5432:5432"
+#     environment:
+#       POSTGRES_USER: learnx
+#       POSTGRES_PASSWORD: secret123
+#       POSTGRES_DB: learnx_db
+#     volumes:
+#       - pgdata:/var/lib/postgresql/data
+
+# volumes:
+#   pgdata:
